@@ -1,0 +1,46 @@
+CURSO DE PYTHON DESDE CERO CON DALTO]
+1. Caracteristicas del pytohn
+	- es de propositon general
+	-Alto nivel
+	-Facil de aprender
+	-Tipado Dinamico
+	-Orientado a objetos
+	-Lenguaje interpretado
+2. POR QUE DEVERIAMOS APRENDER A USAROLOS
+
+	-Tiene pedecitos de codgo yadisponible
+	tiene una comunidad extensa
+	se pude mesclar con otros lenguajes 
+	es multiplataforma
+
+3. PARA QUE PODEMOS UTILIZARLOS 
+	pagina web  del lado del servidor
+	para dessarrolar apps moviles, desktops
+	para automatizacion de scripts
+	para realizar ciencia dew datosm y IA
+	PARa desarrollo de software
+	para pruebas de funcionamiento de software
+	para desarrolo de games
+4.HISTORIA DE PYTHON
+
+	Guido vanros, 
+5. DESCARGAR PYTOHN
+	desde la web
+
+6. DESCARGAR VSC Y DESCAGAR PUGINS
+	-pythyon de microsoft
+	-prettier
+	-python indenter
+
+7. TIPOS DE DATOS
+	-TESTOS O STRINGS ""
+	-NUMBERS INT & NUMBERS FLOAT
+	- BOOLEAN True False
+8. VARIABLES
+	- las variables son espacios reservados en memoria
+	- 
+9. DATOS COMPLEJOS
+
+	
+	
+
