@@ -40,7 +40,12 @@ CURSO DE PYTHON DESDE CERO CON DALTO]
 	- las variables son espacios reservados en memoria
 	- 
 9. DATOS COMPLEJOS
+	-lista = []
+	-Conjuntos = {} no se fuepe modificar datos
+	-diccionarios = {}
+10. OPERADORES ARITMETICOS
 
+	-
 	
 	
 
