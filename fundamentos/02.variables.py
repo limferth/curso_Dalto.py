@@ -3,7 +3,8 @@ a = 1
 b = 2
 c = a + b
 print(c)
-
+#pr qweu funcionas
+#fdfds
 nombre = "limber"
 print(nombre)
 #concatenacion de +
